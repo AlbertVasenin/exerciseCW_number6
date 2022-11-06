@@ -17,7 +17,7 @@ public class Main {
       if (array[i] % 2 == 0) {
         array[i] += 1;
       }
-      if (i >= 2 && i <= 6) {
+      if (i >= 2 && i <= 7) {
         System.out.print(array[i] + " ");
       }
     }
